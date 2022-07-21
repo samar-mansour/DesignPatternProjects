@@ -1,2 +1,2 @@
 
-![Strategy](strategy.png)
+![Strategy](Strategy.png)
