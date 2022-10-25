@@ -10,7 +10,7 @@ algorithms and tweak as they go as well.
 So we get rid of redundancy and repetition. </p>
 
 1. First Code Resourse 
-(TemplateDesignPattern1.png)
+![template1](TemplateDesignPattern1.png)
 
 2. Second Code Resourse
-(TemplateDesignPattern2.png)
+![template2](TemplateDesignPattern2.png)
