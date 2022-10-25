@@ -9,8 +9,8 @@ We are abstracting out or encapsulating the main algorithms so that the children
 algorithms and tweak as they go as well.
 So we get rid of redundancy and repetition. </p>
 
-1. First Code Resourse 
+1. First Code Resource  
 ![template1](TemplateDesignPattern1.png)
 
-2. Second Code Resourse
+2. Second Code Resource
 ![template2](TemplateDesignPattern2.png)
